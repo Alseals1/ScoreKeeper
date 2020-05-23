@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+
+.content {
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 35%;
+    margin-top: 25%;
+    color: white;
+}
+
+body {
+    background: transparent;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUOzvPGjmx6D5XqOsRck6UAkQpCU9EY0ptZGniamjLzy68i8ZG&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* opacity: 60%; */
+}
+
+.green {
+    color: green;
+}
